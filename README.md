@@ -17,7 +17,7 @@ A free, open-source RedM script for printing/publishing
 - [VORP Framework](https://github.com/vorpcore)
 - [jo_libs](https://github.com/Jump-On-Studios/RedM-jo_libs)
 - [shamey-core](https://github.com/ShameyWinehouse/shamey-core) (for job system)
-- `shamey-book` (for viewing the printed items)
+- [shamey-book](https://github.com/ShameyWinehouse/shamey-book) (for viewing the printed items)
 
 ## License & Support
 This software was formerly proprietary to Rainbow Railroad Roleplay, but I am now releasing it free and open-source under GNU GPLv3. I cannot provide any support.
